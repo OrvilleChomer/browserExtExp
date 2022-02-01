@@ -1,0 +1,15 @@
+{
+    "name":"Hi there! I am a really dumb extension!",
+    "action":{},
+    "manifest_version": 3,
+    "version": "0.1",
+    "description":"It was a dark and stormy night. And writing extensions is a finicky exercise!",
+    "permissions":["activeTab","scripting"],
+    "icons": { 
+        "16": "img/icon16.png",
+        "48": "img/icon48.png",
+        "128": "img/icon32.png" },
+    "background": {
+        "service_worker": "background.js"
+    }
+}
