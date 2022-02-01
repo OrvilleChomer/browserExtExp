@@ -1,8 +1,7 @@
 /*
    Just testing stuff out!
    Orville Chomer
-   (oc1281)
-   (708) 285-2466
+   
  */
 
 let bdy,btn;
